@@ -1,5 +1,5 @@
  /*General Styles*/
-* {
+ * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -126,7 +126,7 @@ header nav li {
 /*Hero Styles*/
 
 .hero {
-	position: relative;
+	/* position: relative; */
 	justify-content: center;
 	text-align: center;
 	min-height: 100vh;
@@ -329,4 +329,8 @@ footer p {
 	footer ul li {
 		margin: 0 8px;
 	}
+}
+
+.small_txt {
+	font-size: 10px;
 }
